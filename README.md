@@ -62,15 +62,14 @@ The Navigation SDK for Android and iOS enables rideshare providers to enhance an
 
 **Roles & Responsibilities: -**
 
-* Ensure mobile and web applications meet client quality standards by designing and executing both manual and automated test cases based on user stories and requirements.
-* Identify, document, and prioritize defects; collaborate closely with developers to resolve bugs, perform root cause analysis, and retest fixes.
-* Develop comprehensive test plans, cases, and scripts; conduct functional, regression, sanity, smoke, usability, compatibility, and performance testing on various devices (phones/tablets) and operating systems (Android, iOS, Mac, Linux).
-* Lead regression and exploratory testing for products, specializing in automated testing with Selenium WebDriver for web projects and Appium for mobile cross-platform testing.
-* Perform API testing using Postman, manage emulators with Android Studio, and validate compatibility on diverse screen sizes, resolutions, and OS versions.
-* Engage in User Acceptance Testing (UAT), coordinate acceptance processes, document issues, communicate with business users and product teams, and contribute to build sign-off and process improvements.
-* Lead QA activities, assign test suites to team members, triage and track bugs, and ensure timely releases with minimal risk to existing product functionality.
-* Collaborate with automation engineering and product management teams to develop robust, maintainable testing solutions throughout the software development lifecycle.
-* Simulate network conditions on Android emulators to evaluate performance under various scenarios, ensuring a reliable user experience
+* Ensure mobile and web applications meet client quality standards by designing and executing both manual and automated test cases in Java, structured with TestNG, and implemented using tools like Selenium WebDriver (web) and Appium (mobile), based on user stories and requirements.
+* Identify, document, and prioritize defects; collaborate closely with developers to resolve bugs, perform root cause analysis, and retest fixes using TestNG test cases for verification and reporting.
+* Develop comprehensive test plans, cases, and scripts using Java/TestNG; conduct functional, regression, sanity, smoke, usability, compatibility, and performance testing across different devices (phones/tablets) and operating systems (Android, iOS, Mac, Linux).
+* Lead regression and exploratory testing efforts, specializing in automation with Selenium WebDriver + Java for web projects and Appium + Java for cross-platform mobile application testing.
+* Perform API testing using Postman, manage emulators with Android Studio, and validate compatibility on diverse screen sizes, resolutions, and OS versions, by integrating Appium tests within TestNG frameworks.
+* Execute and coordinate User Acceptance Testing (UAT) activities, manage acceptance criteria, document issues, communicate with business users and product teams, and contribute to build sign-off and QA process improvements.
+* Lead QA activities by assigning TestNG test suites to team members, triaging and tracking bugs, and ensuring timely releases with minimal impact to existing product functionality by maintaining stable Selenium/Appium frameworks.
+* Collaborate with automation engineers and product managers to design and maintain robust, reusable, and maintainable Java-based TestNG automation frameworks for both Selenium (web) and Appium (mobile) as part of the overall SDLC.
 
 Certifications:
 ---
