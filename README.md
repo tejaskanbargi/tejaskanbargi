@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong>QA Tester | Expert in Manual & Automated Testing | Driven by a Passion for Delivering High-Quality Software</strong>
+  <strong>QA Tester | Adept in Manual & Automated Testing | Driven by a Passion for Delivering High-Quality Software</strong>
 </p>
 
 **About Me**
